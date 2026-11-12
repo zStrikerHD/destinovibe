@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+outputs/
+*.tsbuildinfo
+.agent/
+.agents/
+.claude/
+.codex/
+.gemini/
+.impeccable/
